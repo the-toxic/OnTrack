@@ -1,5 +1,5 @@
 <template>
-	<div>
-	Activities
-	</div>
+  <div>
+    Activities
+  </div>
 </template>

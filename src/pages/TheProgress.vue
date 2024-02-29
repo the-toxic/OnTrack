@@ -1,5 +1,5 @@
 <template>
-	<div>
-	Progress
-	</div>
+  <div>
+    Progress
+  </div>
 </template>
